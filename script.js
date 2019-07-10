@@ -1,8 +1,9 @@
 /////////////////////WRITE YOUR VARIABLES BELOW//////////////////////////
 
-
-
-
+var myName="todd";
+var myAge= "12";
+var myFavoriteColor="gold";
+var myFavoriteHobby= "soccer";
 
 
 
